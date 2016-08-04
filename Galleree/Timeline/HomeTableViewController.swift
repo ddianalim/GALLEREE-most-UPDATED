@@ -17,7 +17,7 @@ class HomeTableViewController: PFQueryTableViewController {
     {
         Parse.setApplicationId("galleree", clientKey: "peanutpuppypal")
         
-        var tableVC:HomeTableViewController = HomeTableViewController(className: "Post")
+        let tableVC:HomeTableViewController = HomeTableViewController(className: "Post")
         tableVC.title = "Post"
         
         
