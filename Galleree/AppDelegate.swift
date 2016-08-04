@@ -18,7 +18,7 @@ import ParseFacebookUtilsV4
 class AppDelegate: UIResponder, UIApplicationDelegate {
     
     var window: UIWindow?
-    
+
     var parseLoginHelper: ParseLoginHelper!
     
     override init() {
