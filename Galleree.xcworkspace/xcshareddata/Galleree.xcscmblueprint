@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D6A3D64D80BAEAC4EE801130ABD88A622F42EBD3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D6A3D64D80BAEAC4EE801130ABD88A622F42EBD3" : 0,
+    "1AEAF65EDEA5442704D4046A87687A39FC900144" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DE2C6D19-4566-48D6-96E1-037A2CFD0069",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D6A3D64D80BAEAC4EE801130ABD88A622F42EBD3" : "GALLEREE-%20most-UPDATED\/",
+    "1AEAF65EDEA5442704D4046A87687A39FC900144" : "NatalieGallereed-master\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Galleree",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Galleree.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dianalimnos\/GALLEREE-updated.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1AEAF65EDEA5442704D4046A87687A39FC900144"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dianalimnos\/GALLEREE-most-UPDATED.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D6A3D64D80BAEAC4EE801130ABD88A622F42EBD3"
+    }
+  ]
+}
